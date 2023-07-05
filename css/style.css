@@ -78,7 +78,7 @@
 .image-frame {
     width: 380px;
     height: 380px;
-    background-image: url(/images/1.jpg);
+    background-image: url(https://picsum.photos/200/300);
     background-position: center;
     background-size: cover;
     border: 8px solid #FFFFFF;
